@@ -11,6 +11,7 @@ Pode baixar os arquivos compactados do código na pasta "AplicacaoWEB".
 
 Link aplicação MOBILE: https://app.flutterflow.io/share/agendamento-0yuxhh
 Código está na pasta "AplicacaoMOB".
+
 Obs: Não consiguimos gerar um executavel pois esse recurso é pago no Flutter flow, optamos por usa-lo pois nossos computadores não suportam rodar o android studio, deixarei na pasta "Configração PC" uma imagem das especificações do meu notbook. Como o Flutter Flow é uma plataforma de desenvolvimento online não tivemos problemas com a unit.
 
 
